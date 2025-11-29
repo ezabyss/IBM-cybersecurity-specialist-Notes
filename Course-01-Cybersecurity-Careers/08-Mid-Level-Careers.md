@@ -69,13 +69,14 @@ This role is hands-on, technical, and closer to “ethical hacking.” It requir
 
 ---
 
-# 📊 Quick Comparison Table (No Salary Info)
+# 📊 Quick Comparison Table
 
-| Mid-Level Role | Main Responsibilities |
-|----------------|------------------------|
-| **Cybersecurity Analyst** | Enforce security policies, detect threats, perform assessments, plan incident response |
-| **Cybersecurity Consultant** | Audit systems, advise companies, design strategies, train employees |
-| **Penetration & Vulnerability Tester** | Ethically exploit vulnerabilities, conduct tests, strengthen defenses |
+| Mid-Level Role | Similar Titles | Main Responsibilities |
+|----------------|----------------|------------------------|
+| **Cybersecurity Analyst** | InfoSec Analyst, Security Analyst, IT Security Analyst, Cyber Threat Analyst | Detect threats, enforce policies, handle incidents, perform assessments |
+| **Cybersecurity Consultant** | Security Consultant, Cloud Security Engineer, Security Specialist | Audit systems, design strategies, advise mgmt, provide training |
+| **Penetration & Vulnerability Tester** | Pen Tester, Ethical Hacker, Vulnerability Analyst | Ethically exploit systems, find weaknesses, recommend improvements |
+
 
 ---
 
