@@ -158,3 +158,7 @@ I’m ready to learn step-by-step, even if everything feels new right now.
 This certificate is not just a course for me — it’s my **first structured step into cybersecurity**, and I’m proud I finally started.
 
 ---
+### 📂 Navigation  
+
+[Next → 02-Why-Cybersecurity](https://github.com/ezabyss/IBM-cybersecurity-specialist-Notes/blob/main/Course-01-Cybersecurity-Careers/02-Why-Cybersecurity.md)
+
