@@ -107,3 +107,8 @@ This is a career where I can grow, stay curious, and constantly learn new things
 
 ---
 
+### 📂 Navigation  
+[← Previous: 01-Overview-Notes](https://github.com/ezabyss/IBM-cybersecurity-specialist-Notes/blob/main/Course-01-Cybersecurity-Careers/01-Overview-Notes.md)  
+[Next → 03-A-Growing-Field](https://github.com/ezabyss/IBM-cybersecurity-specialist-Notes/blob/main/Course-01-Cybersecurity-Careers/03-A-Growing-Field.md)
+
+
